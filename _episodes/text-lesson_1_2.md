@@ -1,5 +1,5 @@
 ---
-title: Introduction to preprints
+title: Introduction to article preprints
 teaching: 10
 exercises: 20
 duration: null
